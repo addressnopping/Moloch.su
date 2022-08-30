@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "moloch",
+    "name": "moloch.su",
+    "description": "shitty skid",
+    "version": "b3",
+    "mcversion": "1.12.2",
+    "logoFile": "",
+    "authorList": [
+      "B_312",
+      "KillRED",
+      "TheDiamondSword5",
+      "PeterDev"
+    ],
+    "screenshots": [],
+    "dependencies": []
+  }
+]
